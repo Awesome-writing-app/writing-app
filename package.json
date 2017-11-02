@@ -6,8 +6,7 @@
   "scripts": {
     "start": "electron .",
     "build-client-watch": "webpack -w",
-    "start-dev": "npm run build-client-watch & npm run start",
-
+    "start-dev": "npm run build-client-watch & npm run start"
   },
   "repository": "https://github.com/electron/electron-quick-start",
   "keywords": [

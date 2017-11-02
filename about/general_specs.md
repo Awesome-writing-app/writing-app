@@ -16,7 +16,7 @@ This spec is in-progress and not at all complete.
 ## Bonus features that would be cool some day
 
 - cloud syncing
-
+- real-time collaboration (ala Google Docs)
 
 ## Intended Audience
 
@@ -26,3 +26,4 @@ This spec is in-progress and not at all complete.
   - want to organize files in their own way
 
 **Example**: Tess is both a programmer and a writer. She would like to be able to edit fiction the way she edits code, with version control and markdown. She has multiple devices including a computer and a phone, and prefers different apps on each. It's important to her that any app she uses produces files she can open on her other devices. It's also important to her that she be able to keep her files where she would like them, in folder structures that make sense to her.
+
